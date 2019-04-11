@@ -1,0 +1,15 @@
+﻿{
+  "AESEncryptionKey": "123",
+  "HttpSettings": {
+    "DisplayRawJson": false,
+    "HttpTimeOut": 0,
+    "HttpAllowAutoRedirect": false,
+    "IOSHttpHandler": "ModernHttpClient",
+    "AndroidHttpHandler": "ModernHttpClient"
+  },
+ 
+  "WebApi": {
+    "customName": "https://someurl.com",
+    "customName2": "https://someurl2.com"
+  }
+}

@@ -1,0 +1,19 @@
+﻿using System;
+using Xamarin.Forms.CommonCore;
+
+namespace Xamarin.Forms.CommonCore
+{
+    public partial class CoreSettings
+    {
+        public const string FastRenderers = "FastRenderers_Experimental";
+
+        public static SomeValueConverter UpperText
+        {
+            get
+            {
+                return CoreDependencyService.GetConverter<SomeValueConverter>();
+            }
+        }
+
+    }
+}

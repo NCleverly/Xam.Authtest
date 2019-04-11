@@ -1,0 +1,13 @@
+﻿{
+  "AESEncryptionKey": "123",
+  "HttpSettings": {
+    "DisplayRawJson": false,
+    "HttpTimeOut": 0,
+    "HttpAllowAutoRedirect": false,
+    "IOSHttpHandler": "ModernHttpClient",
+    "AndroidHttpHandler": "ModernHttpClient"
+  },
+  "WebApi": {
+    "JWTAuthHost": ""
+  }
+}

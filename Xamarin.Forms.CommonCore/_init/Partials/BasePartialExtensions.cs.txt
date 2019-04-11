@@ -1,0 +1,8 @@
+﻿using System;
+namespace Xamarin.Forms.CommonCore
+{
+    public static partial class CoreExtensions
+    {
+
+    }
+}
