@@ -60,7 +60,7 @@ namespace Xam.Authtest.ViewModels
         {
             try
             {
-                IsLoadingOverlay = true;
+                //IsLoadingOverlay = true;
                 //var data = await DependencyService.Get<AuthenticationService>().Authenticate(App.tenanturl, App.GraphResourceUri, App.ApplicationID, App.ReturnUri);
                 //AuthenticationResult authenticationResult = data;
                 //if (authenticationResult.UserInfo != null)
